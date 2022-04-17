@@ -1,5 +1,7 @@
 # Problem sets
 
+A short run-down of the problem sets I completed during the CS50 course. There were plenty more, but those were fairly simple programs, which I didn't feel were important enough to showcase here.
+
 Easyfilter problem set taught me how image filters work and how to create simple filters of my own.
 Created filters were : Sepia, Grayscale, Reverse and Blur filters.
 
