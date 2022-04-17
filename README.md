@@ -1,4 +1,4 @@
-# problem sets
+# Problem sets
 
 Easyfilter problem set taught me how image filters work and how to create simple filters of my own.
 Created filters were : Sepia, Grayscale, Reverse and Blur filters.
